@@ -1,3 +1,11 @@
+<!-- 
+Para visualizar aqui no VSCODE:
+ctrl+shift+p -> ">Markdown: Abrir visualização ao lado"
+
+ -->
+
+
+
 # 🧑‍💻 João Cardoso
 ### **`Analista de Dados`** 
 
@@ -30,6 +38,22 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 -->
 <img
     align = left
+    alt = 'Canva'
+    title = 'Canva'
+    width = 40px
+    style = 'padding: 5px 3px;'   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"          
+/>
+<img
+    align = left
+    alt = 'Bootstrap'
+    title = 'Bootstrap'
+    width = 40px
+    style = 'padding: 5px 3px;'   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+/>
+<img
+    align = left
     alt = 'HTML'
     title = 'HTML'
     width = 40px
@@ -54,27 +78,27 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 />
 <img
     align = left
-    alt = 'Bootstrap'
-    title = 'Bootstrap'
-    width = 40px
-    style = 'padding: 5px 3px;'   
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-<img
-    align = left
-    alt = 'Canva'
-    title = 'Canva'
-    width = 40px
-    style = 'padding: 5px 3px;'   
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"          
-/>
-<img
-    align = left
     alt = 'PHP'
     title = 'PHP'
     width = 40px
     style = 'padding: 5px 3px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img
+    align = left
+    alt = 'Dart'
+    title = 'Dart'
+    width = 40px
+    style = 'padding: 5px 3px;'    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" 
+/>
+<img
+    align = left
+    alt = 'Flutter'
+    title = 'Flutter'
+    width = 40px
+    style = 'padding: 5px 3px;'    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 <img
     align = left
