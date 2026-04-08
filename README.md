@@ -12,7 +12,7 @@ ctrl+shift+p -> ">Markdown: Abrir visualização ao lado"
 Me chamo João Gabriel Cardoso e Silva, tenho 18 anos e sou natural do estado de São Paulo. 
 Concluí o ensino médio na Etec, com o curso técnico em Desenvolvimento de Sistemas. 
 Atualemte estou cursando Análise e Desenvolvimento de Sitemas na Fatec.
-Sou apaixonado pela área de dados, onde demonstro esse afeto pelo meu [LinkedIn](www.linkedin.com/in/joão-gabriel-cardoso-e-silva-14a14z).
+Sou apaixonado pela área de dados, onde demonstro esse afeto pelo meu [LinkedIn](https://www.linkedin.com/in/joão-gabriel-cardoso-e-silva-14a14z).
 <br>
 
 <img
