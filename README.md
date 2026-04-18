@@ -98,7 +98,7 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
     title = 'GitHub'
     width = 50px
     style = 'padding: 5px 6px;'    
-    src="imagens/github-white-icon.png"
+    src="imagens/github.png"
 />
 <img
     align = left
