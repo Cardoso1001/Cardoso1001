@@ -218,7 +218,7 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 <img
     align = left
     alt = 'PyCharm'
-    title = 'CLion'
+    title = 'PyCharm'
     width = 50px
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
@@ -241,16 +241,16 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 />
 <img
     align = left
-    alt = 'HTML'
-    title = 'HTML'
+    alt = 'HTML5'
+    title = 'HTML5'
     width = 50px
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img
     align = left
-    alt = 'CSS'
-    title = 'CSS'
+    alt = 'CSS3'
+    title = 'CSS3'
     width = 50px
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
