@@ -8,22 +8,34 @@ ctrl+shift+p -> ">Markdown: Abrir visualização ao lado"
 <span style="color: pink;">
 
 # 🧑‍💻 João Cardoso
-### **`Analista de Dados`** 
-Me chamo João Gabriel Cardoso e Silva, tenho 18 anos e sou natural do estado de São Paulo. 
-Concluí o ensino médio na Etec, com o curso técnico em Desenvolvimento de Sistemas. 
-Atualemte estou cursando Análise e Desenvolvimento de Sitemas na Fatec.
-Sou apaixonado pela área de dados, onde demonstro esse afeto pelo meu [LinkedIn](https://www.linkedin.com/in/joão-gabriel-cardoso-e-silva-14a14z).
-<br>
+### **`Dev Backend`** **`Analista de Dados`** 
+<div style = 'font-size: 15px;'>
+Me chamo João Gabriel Cardoso e Silva e tenho 18 anos.
 
+Atualemte estou cursando **Análise e Desenvolvimento de Sitemas** na Fatec, com foco em construir uma carreira na área de **Dados**. Atualmente, venho aprofundando meus conhecimentos em **Python, SQL, Machine Learning e Business Intelligence**, desenvolvendo projetos práticos para transformar dados em informações úteis para a tomada de decisões.
+
+Além da análise de dados, minha formação em desenvolvimento de software me proporcionou experiência com tecnologias como **HTML, CSS, JavaScript, PHP, Java e Git/GitHub**, o que amplia minha capacidade de **compreender sistemas** e trabalhar com diferentes etapas do **ciclo de desenvolvimento.**
+
+Tenho interesse em aprender continuamente, enfrentar novos desafios e aplicar soluções baseadas em dados para gerar resultados. Estou em busca de oportunidades de **estágio** e **desenvolvimento profissional** nas áreas de **Análise de Dados**, **BI** e **tecnologias relacionadas**, onde eu possa contribuir, adquirir experiência prática e evoluir constantemente.
+
+Sou apaixonado pela área de dados, onde demonstro esse afeto pelo meu [LinkedIn](https://www.linkedin.com/in/joão-gabriel-cardoso-e-silva-14a14z).
+
+
+Email Profissional: 
+<a href="" style='margin-right:10px;'> <img
+    align = center
+    alt = 'Email profissional'
+    title = 'Email profissional'
+    src="https://custom-icon-badges.demolab.com/badge/joaogabrielcardosoesilva14@gmail.com-0D6EFD.svg?logo=mail&logoColor=white"
+/> </a>     Email Institucional - Fatec: 
 <a href=""> <img
-    align = left
+    align = center
     alt = 'Email institucional'
     title = 'Email institucional'
-    width = 200px
-    style = 'padding-right: 10px;'   
     src="https://custom-icon-badges.demolab.com/badge/joao.silva153@aluno.cps.sp.gov.br-E61B23.svg?logo=mail&logoColor=white"
-/> </a>
+/> </a>  
 <br>
+</div>
 
  ---------
 
@@ -35,7 +47,7 @@ Tambem tem o github de um cara: 'DenverCoder1', em custom-icon-badges
 https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 -->
 
-### ⚒️ Tecnologias
+### ⚒️ Principais Ferramentas e Tecnologias
 #### Microsoft365
 
 <img
@@ -62,14 +74,14 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
     style = 'padding: 5px 6px;'    
     src="imagens/excel.png" 
 />
-<img
+<!-- <img
     align = left
     alt = 'Access'
     title = 'Access'
     width = 50px
     style = 'padding: 5px 6px;'    
     src="imagens/access.png" 
-/>
+/> -->
 <img
     align = left
     alt = 'Power BI'
@@ -82,7 +94,7 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 <br>
 <br>
 
-#### Codespaces
+#### 👨‍💻 Codespaces
 
 <img
     align = left
@@ -116,34 +128,34 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
+<img
+    align = left
+    alt = 'Jupyter Notebook'
+    title = 'Jupyter Notebook'
+    width = 50px
+    style = 'padding: 5px 6px;'  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+/>
+          
 
 <br>
 <br>
 <br>
 
- ---------
 
-### 📚 Linguagens Principais
+#### 📚 Linguagens e Biliotecas
 
  
 
 
-<img
-    align = left
-    alt = 'Java'
-    title = 'Java'
-    width = 50px
-    style = 'padding: 5px 6px;'    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img
+<!-- <img
     align = left
     alt = 'R'
     title = 'R'
     width = 50px
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-/>
+/> -->
 <img
     align = left
     alt = 'Python'
@@ -170,13 +182,29 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 />
 <img
     align = left
+    alt = 'Matplotlib'
+    title = 'Matplotlib'
+    width = 50px
+    style = 'padding: 5px 6px;'  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"   
+/>
+<img
+    align = left
+    alt = 'Plotly'
+    title = 'Plotly'
+    width = 50px
+    style = 'padding: 5px 6px;'    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+/>
+<img
+    align = left
     alt = 'MySQL'
     title = 'MySQL'
     width = 50px
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
-<img
+<!-- <img
     align = left
     alt = 'AWS'
     title = 'AWS'
@@ -191,14 +219,16 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
     width = 50px
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-/>
+/> -->
 </br>
 </br>
 </br>
 
 --------
 
-### ⏳Ferramentas já Estudadas
+### ⏳Ferramentas e Tecnologias já Estudadas
+#### 👨‍💻 Codespaces
+
 <img
     align = left
     alt = 'Eclipse'
@@ -231,6 +261,16 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg"
 />
+
+
+<br>
+<br>
+<br>
+
+
+#### 📚 Linguagens e Biliotecas
+
+
 <img
     align = left
     alt = 'Bootstrap'
@@ -270,6 +310,22 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
     width = 50px
     style = 'padding: 5px 6px;'    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img
+    align = left
+    alt = 'C'
+    title = 'C'
+    width = 50px
+    style = 'padding: 5px 6px;'    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  
+/>
+<img
+    align = left
+    alt = 'Java'
+    title = 'Java'
+    width = 50px
+    style = 'padding: 5px 6px;'    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img
     align = left
