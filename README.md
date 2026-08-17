@@ -347,8 +347,7 @@ https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file
 
 ---------
 
-### 📊 Estátisticas
-<!-- 
+<!-- ### 📊 Estátisticas
 Repositório 'anuraghazra' possui gráficos como o de número de commits que fiz no meu github. Copieei==i o showing icons
 https://github.com/anuraghazra/github-readme-stats
 
@@ -368,11 +367,11 @@ src="https://github-readme-stats.vercel.app/api?username=Cardoso1001&show_icons=
     style = 'padding-right: 10px;'   
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Cardoso1001&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
- -->
+ 
 <!-- <img 
     height = 170px
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cardoso1001&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400"
-/> -->
+/> 
 <div style="font-size: 15px; display: flex; justify-content: space-between; color: pink;">
   <span> 
   
@@ -404,4 +403,4 @@ align="left"
   height = 250px
   style = "padding-right: 30px;"
   src="https://streak-stats.demolab.com/?user=Cardoso1001&theme=omni"
-/>
+/> -->
